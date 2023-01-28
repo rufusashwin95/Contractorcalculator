@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Contractor calculator</string>
+    <string name="defaultDecimal">0.0</string>
+    <string name="taxConstant">5</string>
+</resources>
